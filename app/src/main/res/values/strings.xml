@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mapit</string>
+    <string name="button_addMapit">Add Mapit</string>
+    <string name="hint_mapitTitle">Mapit Title</string>
+    <string name="hint_mapitDescription">Description </string>
+    <string name="menu_addMapit">Add</string>
+    <string name="menu_cancelMapit">Cancel</string>
+    <string name="enter_mapit_title"> Please enter a mapit Title </string>
+    <string name="save_mapit"> Save mapit </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_mapit_image">Select image</string>
+    <string name="change_mapit_image">Change image</string>
+    <string name="mapit_image">mapit image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_deleteMapit">Delete</string>
+</resources>
